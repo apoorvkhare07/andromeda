@@ -1,0 +1,21 @@
+{
+    "name": "andromeda",
+    "displayName": "Andromeda",
+    "description": "Dark theme for vs-code optimized to please the eyes.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.45.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Andromeda",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Andromeda-color-theme.json"
+            }
+        ]
+    }
+}
