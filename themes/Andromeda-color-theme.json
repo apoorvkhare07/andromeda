@@ -368,4 +368,120 @@
 		"tree.indentGuidesStroke": "#585858",
 		"widget.shadow": "#000000"
 	},
+	"tokenColors": [
+		{
+			"scope": "string, constant.other.symbol, entity.other.inherited-class, punctuation.definition.string, markup.underline.link.image.markdown, string.other.link, markup.raw.inline, markup.inserted, markup.inserted.git_gutter, string.other.link.title.markdown, variable.parameter.url.scss",
+			"settings": {
+				"foreground": "#92D192"
+			}
+		},
+		{
+			"scope": "keyword, keyword.operator.expression.typeof, variable.language.this, storage, support.function.construct.output.php, keyword.operator.new, markup.inline.raw.string.markdown, keyword.operator.expression.import.js",
+			"settings": {
+				"foreground": "#FFEEA6"
+			}
+		},
+		{
+			"scope": "entity.other.attribute-name, entity.other.attribute-name.class.css, markup.heading punctuation.definition.heading, entity.name.section, entity.other.attribute-name.class.css, string.unquoted.alias.graphql",
+			"settings": {
+				"foreground": "#FFD479"
+			}
+		},
+		{
+			"scope": "variable.other.property.php, variable.other.member.php, entity.name.function.php, meta.function-call, meta.property-value, meta.selector, entity.name.function.ts, entity.name.function.js, entity.name.function.tsx",
+			"settings": {
+				"foreground": "#FFFFFF"
+			}
+		},
+		{
+			"scope": "support.class, entity.name.type.class, meta.entity.new.name.expr, entity.name.tag.structure.any.html, meta.tag.structure.any.html, punctuation.definition.tag.html, meta.tag.sgml.doctype.html, keyword.other.special-method, entity.name.type, entity.name.tag, support.variable.dom.js, meta.tag.structure.any.html, markup.bold, punctuation.definition.bold, entity.name.type.ts, support.variable.dom.ts, entity.name.function.graphql",
+			"settings": {
+				"foreground": "#6AB0F3"
+			}
+		},
+		{
+			"scope": "meta.type.annotation.ts, support.type.primitive.ts, entity.name.type.ts, meta.type.annotation.ts, variable.other.jsdoc",
+			"settings": {
+				"foreground": "#4A7BAA"
+			}
+		},
+		{
+			"scope": "variable.parameter.ts, variable.parameter.ts, variable.parameter.tsx, entity.tag.tagbraces.nunjucks, string.unquoted.filter-pipe.nunjucks, punctuation.colon.graphql, string.unquoted.graphql",
+			"settings": {
+				"foreground": "#848991"
+			}
+		},
+		{
+			"scope": "comment, punctuation.definition.comment, punctuation.separator.key-value, punctuation.separator, meta.template.expression.js, punctuation.definition.template-expression.begin.js, punctuation.definition.template-expression.begin.ts, punctuation.definition.template-expression.end.js, punctuation.definition.template-expression.end.ts, markup.underline.link.markdown, punctuation.definition.metadata.markdown",
+			"settings": {
+				"foreground": "#777C85"
+			}
+		},
+		{
+			"scope": "punctuation.definition.variable, variable, variable.language.this.php, markup.deleted, markup.deleted.git_gutter, invalid.illegal, string.unquoted.tag-string.nunjucks",
+			"settings": {
+				"foreground": "#F2777A"
+			}
+		},
+		{
+			"scope": "constant.numeric, keyword.other.unit, markup.quote",
+			"settings": {
+				"foreground": "#FCA369"
+			}
+		},
+		{
+			"scope": "support.function, constant, entity.other.attribute-name.id, markup.italic, punctuation.definition.italic, markup.changed, markup.changed.git_gutter, support.constant.property-value",
+			"settings": {
+				"foreground": "#76d4cd"
+			}
+		},
+		{
+			"scope": "keyword.operator, constant.character.escape, constant.character.escape.json, entity.other.attribute-name.pseudo-element.css, entity.other.attribute-name.pseudo-class.css, keyword.operator, punctuation.accessor.js, punctuation.definition.block.tag.jsdoc, storage.type.class.jsdoc",
+			"settings": {
+				"foreground": "#AC8D58"
+			}
+		},
+		{
+			"scope": "punctuation.definition.block, meta.parameters, punctuation.definition.parameters, meta.brace.round, punctuation.definition.dictionary, constant.character.escape.backslash.regexp, punctuation.section, punctuation.terminator.statement, variable.other.property.js, support.variable.property.dom.js, punctuation.definition.parameters, punctuation.definition.array, support.type.property-name.json, entity.name.function, meta.require, support.function.any-method, meta.tag.sgml.html, punctuation.section.embedded, variable.interpolation, variable.object.property.ts, variable.object.property.tsx, meta.brace.square, punctuation.definition.array, punctuation.definition.binding-pattern.object.js, entity.name.tag.yaml, meta.selectionset.graphql",
+			"settings": {
+				"foreground": "#eeeeee"
+			}
+		},
+		{
+			"scope": "entity.other.attribute-name.pseudo-class.css, constant.other.php, markup.italic.markdown, punctuation.definition.italic.markdown, string.regexp, entity.other.attribute-name.pseudo-element.css, meta.image.inline.markdown, string.other.link.description.markdown",
+			"settings": {
+				"foreground": "#62CFCF"
+			}
+		},
+		{
+			"scope": "entity.name.tag.reference, meta.embedded.block.php, meta.embedded.line.php, keyword.other.phpdoc.php, meta.separator, variable.object.property.ts, variable.object.property.tsx, variable.other.property.js, support.variable.property.dom.js, support.type.property-name.json, punctuation.definition.tag.begin.html, punctuation.definition.tag.end.html, entity.name.type.instance.jsdoc, variable.graphql, meta.template.expression.ts",
+			"settings": {
+				"foreground": "#e2e2e2"
+			}
+		},
+		{
+			"scope": "token.info-token",
+			"settings": {
+				"foreground": "#6796E6"
+			}
+		},
+		{
+			"scope": "token.warn-token",
+			"settings": {
+				"foreground": "#CD9731"
+			}
+		},
+		{
+			"scope": "token.error-token",
+			"settings": {
+				"foreground": "#F44747"
+			}
+		},
+		{
+			"scope": "token.debug-token",
+			"settings": {
+				"foreground": "#B267E6"
+			}
+		}
+	]
 }
