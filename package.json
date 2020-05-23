@@ -1,8 +1,18 @@
 {
-    "name": "andromeda",
-    "displayName": "Andromeda",
+    "name": "andromeda-vscode",
+    "displayName": "Andromeda Dark Theme",
     "description": "Dark theme for vs-code optimized to please the eyes.",
-    "version": "0.0.1",
+    "version": "1.0.0",
+    "icon": "images/logo.png",
+    "publisher": "Apoorv Khare",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/apoorvkhare07/andromeda"
+    },
+    "bugs": {
+        "url": "https://github.com/apoorvkhare07/andromeda/issues",
+        "email": "apoorvkhare007@gmail.com"
+    },
     "engines": {
         "vscode": "^1.45.0"
     },
