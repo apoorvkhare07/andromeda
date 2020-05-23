@@ -4,7 +4,7 @@
     "description": "Dark theme for vs-code optimized to please the eyes.",
     "version": "1.0.0",
     "icon": "images/logo.png",
-    "publisher": "Apoorv Khare",
+    "publisher": "apoorvkhare07",
     "repository": {
         "type": "git",
         "url": "https://github.com/apoorvkhare07/andromeda"
@@ -14,7 +14,7 @@
         "email": "apoorvkhare007@gmail.com"
     },
     "engines": {
-        "vscode": "^1.45.0"
+        "vscode": "*"
     },
     "categories": [
         "Themes"
