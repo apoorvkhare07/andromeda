@@ -1,5 +1,5 @@
-![Andromeda Icon](https://github.com/apoorvkhare07/andromeda/raw/master/images/logo.png)
 
+<img src="https://github.com/apoorvkhare07/andromeda/raw/master/images/logo.png" alt="Andromeda Icon" width="150" height="150">
 
 # Andromeda
 
